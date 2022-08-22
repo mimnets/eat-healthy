@@ -2,3 +2,26 @@ body{
     font-family: 'Orbitron', sans-serif;
 
 }
+
+.heading-container{
+    display: flex;
+}
+.heading-container div{
+    margin-top: 40px;
+    border: 2px solid grey;
+    
+}
+.half-width-left{
+    width: 50%;
+    margin-left: 30px;
+    padding-left: 50px;
+}
+.half-width-right{
+    width: 50%;
+}
+h2{
+    font-size: 50px;
+}
+.hero-image{
+    width: 80%;
+}
