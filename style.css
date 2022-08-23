@@ -24,9 +24,14 @@ h2{
     width: 80%;
 }
 .order-button{
+    color: white;
     text-decoration: none;
     background-image: linear-gradient(orange, orange);
     padding: 15px 15px;
     font-weight: 400;
     border-radius: 7px;
+}
+
+.heading-title{
+    color:orangered;
 }
