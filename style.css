@@ -25,3 +25,10 @@ h2{
 .hero-image{
     width: 80%;
 }
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, orange);
+    padding: 15px 15px;
+    font-weight: 400;
+    border-radius: 7px;
+}
