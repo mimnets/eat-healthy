@@ -7,9 +7,7 @@ body{
     display: flex;
 }
 .heading-container div{
-    margin-top: 40px;
-    border: 2px solid grey;
-    
+    margin-top: 40px;    
 }
 .half-width-left{
     width: 50%;
