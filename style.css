@@ -32,3 +32,15 @@ h2{
     font-weight: 400;
     border-radius: 7px;
 }
+.main-heading{
+    display: flex;
+    border: 2px solid goldenrod;
+    margin-top: 10px;
+    justify-content: center;
+}
+.first-div{
+    background-color: aquamarine;
+}
+.second-div{
+    background-color: goldenrod;
+}
