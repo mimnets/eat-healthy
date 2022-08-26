@@ -7,9 +7,7 @@ body{
     display: flex;
 }
 .heading-container div{
-    margin-top: 40px;
-    border: 2px solid grey;
-    
+    margin-top: 40px;    
 }
 .half-width-left{
     width: 50%;
@@ -26,13 +24,14 @@ h2{
     width: 80%;
 }
 .order-button{
+    color: white;
     text-decoration: none;
     background-image: linear-gradient(orange, orange);
     padding: 15px 15px;
     font-weight: 400;
     border-radius: 7px;
 }
-.main-heading{
+.main-div{
     display: flex;
     border: 2px solid goldenrod;
     margin-top: 10px;
@@ -43,4 +42,8 @@ h2{
 }
 .second-div{
     background-color: goldenrod;
+}
+
+.heading-title{
+    color:orangered;
 }
